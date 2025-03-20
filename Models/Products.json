@@ -1,0 +1,236 @@
+[   
+    
+
+    {
+
+        "Title":"Beet",
+        "text":"Many nutrients and few calories Beets boast an impressive nutritional profile.",
+        "img":"https://th.bing.com/th/id/R.0a881b0b5bad15db0a01a0c19ef5c3c7?rik=y4SQ9wuFhO%2bs7Q&riu=http%3a%2f%2finspirehealthmag.com%2fwp-content%2fuploads%2f17985024_l.jpg&ehk=Q9dPVofOXOdONb3cUqmvJaKg4ZibrlGkleUbmFMfAFU%3d&risl=&pid=ImgRaw&r=0",
+        "Price":"Rs 57.29/kg",
+        "type":"Roots"
+    },
+
+    {
+
+        "Title":"Parsnips",
+        "text":" Parsnips are an excellent source of many important nutrients, packing a hearty dose of fiber, vitamins, and minerals.",
+        "img":"parsnip",
+         "Price":"Rs 24.6",
+         "type":"Roots"
+    },
+
+
+   {
+        "Title":"Carrot",
+        "text":"Carrots contain many nutrients, including beta-carotene and antioxidants.",
+         "img":"Carrot",
+        "Price":"Rs 47.8/kg",
+        "type":"Roots"
+    },
+
+    {
+
+        "Title": "Potatoes",
+        "text": "Potatoes: Where Fine Dining Meets Simplicity.",
+        "img": "potato-2",
+        "Price":"Rs 31.7/kg",
+        "type":"Roots"
+    },
+
+    {
+
+        "Title": "Green Onion",
+        "text": "It helps regulate blood pressure, promote weight loss, maintain eye health, prevent premature aging and boost immunity.",
+        "img": "Green Onion",
+        "Price":"Rs 30/Bunch",
+        "type":"Stems"
+    },
+
+    {
+
+        "Title": "Rhubarb",
+        "text": "Rhubarb is a good source of vitamin K, fiber, and antioxidants that can support overall health and help prevent chronic disease.",
+        "img": "Rhubarb",
+        "Price":"Rs 20",
+        "type":"Stems"
+    },
+
+
+    {
+
+        "Title": "Wild Leek",
+        "text": "wild leeks is this vegetable’s potential to fight or prevent cancer due to its high antioxidant content.",
+        "img": "Wild Leek",
+        "Price":"Rs 477/kg",
+        "type":"Stems"
+    },
+
+
+
+    {
+        "Title": "Coriander Plant",
+        "text": "One of the main ingredient in the kitchen of India.",
+        "img": "corianderPlant",
+        "Price":"Rs 20.00/Bunch",
+        "type":"Stems"
+    },
+
+
+    {
+
+        "Title":"Ramps",
+        "text":"Ramps could benefit the heart as well as circulatory system. ",
+        "img":"Ramps",
+        "Price":"Rs 15/kg",
+        "type":"Bulbs"
+    },
+
+
+    {
+
+        "Title":"Onions",
+        "text":"Onions are sweet, savory, and pungent, enhancing the taste of dishes.",
+        "img":"Oinon",
+        "Price":"Rs 47.67/kg" ,
+        "type":"Bulbs"
+    },
+
+    {
+
+        "Title":"Garlic",
+        "text":"Heart disease Garlic is most often mentioned as an herb for heart disease and atherosclerosis",
+        "img":"Garlic",
+        "Price":"Rs 197.5/kg",
+        "type":"Bulbs"
+    },
+
+    {
+
+        "Title":"Lotus Roots",
+        "text":"Lotus roots has a rich nutritional profile that may protect the liver, reduce the risk of stomach ulcers, and treat allergies.",
+        "img":"Lotus Roots",
+        "Price":"Rs 90/kg",
+        "type":"Bulbs"
+    },
+
+
+    {
+
+        "Title":"Green peas ",
+        "text":"Green peas contain carbs, protein, and many beneficial nutrients, including fiber.",
+        "img":"Green-peas",
+        "Price":"Rs 84.5/Kg",
+        "type":"Seeds & Pods"
+    },
+    
+    {
+
+        "Title":"Tomatoes",
+        "text":"The tomato hides its griefs. Internal damage is hard to spot.",
+        "img":"Tomatoes",
+        "Price":"Rs 47.52/Kg",
+        "type":"Seeds & Pods"
+    },
+
+
+    {
+
+        "Title":"Green Beans",
+        "text":"Green beans contain plenty of fiber, the indigestible part of plant foods.",
+        "img":"Green Beans",
+        "Price":"Rs 88.38/Kg",
+        "type":"Seeds & Pods"
+    },
+
+    {
+
+        "Title":"Capsicum",
+        "text":"Capsicum contains a nutritional profile excellent for weight loss.",
+        "img":"Capsicum",
+        "Price":"Rs 64/Kg",
+        "type":"Seeds & Pods"
+    },
+
+    {
+
+        "Title":"Almond Nuts",
+        "text":"Almonds are packed with antioxidants like vitamin E. Vitamin E protects your body from free radicals",
+        "img":"Almond Nuts",
+        "Price":"Rs 690/Kg",
+        "type":"Dry Fruits"
+    },
+
+    {
+
+        "Title":"Pistachios",
+        "text":"Pistachios are rich in various nutrients and may support weight loss, gut health, blood sugar management, and heart health.",
+        "img":"Pistachios",
+        "Price":"Rs 1550/Kg",
+        "type":"Dry Fruits"
+    },
+
+
+    {
+
+        "Title":"Walnut",
+        "text":"Boosting the cardiovascular system and reducing the risk of heart disease and blood pressure.",
+        "img":"Walnut",
+        "Price":"Rs 400/Kg",
+        "type":"Dry Fruits"
+    },
+
+    {
+
+        "Title":"Date Palm",
+        "text":" Dates are rich in fiber, antioxidants and phytonutrients, and can help improve gut health, fight chronic diseases, boost brain health.",
+        "img":"Date Palm",
+        "Price":"Rs 245/Kg",
+        "type":"Dry Fruits"
+    },
+
+
+    {
+
+        "Title":"Spinach",
+        "text":"Spinach may help lower blood pressure, protect your vision and boost iron levels. ",
+        "img":"Spinach",
+        "Price":"Rs 20.58/Kg",
+        "type":"Leaves"
+    },
+
+
+    {
+
+        "Title":"Curry Leaves",
+        "text":"Curry leaves are a rich source of nutrients like carbohydrate, fiber, calcium.",
+        "img":"Curry-Leaves",
+        "Price":"Rs 20/Bunch",
+        "type":"Leaves"
+    },
+
+
+    {
+        "Title":"Mustard Greens",
+        "text":" Mustard greens are high in powerful antioxidants .",
+        "img":"Mustard Greens",
+        "Price":"Rs 25/Bunch",
+        "type":"Leaves"
+    },
+
+
+    {
+
+        "Title":"Cabbage",
+        "text":"Cabbage is highly nutritious and rich in vitamin C, fiber, and vitamin K. ",
+        "img":"Cabbage",
+        "Price":"Rs 28.3",
+        "type":"Leaves"
+    }
+
+
+    
+
+
+
+
+]
