@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const product = new mongoose.Schema({
+const productSchema = new mongoose.Schema({
     Title: {
         type: String,
         required: true,
@@ -29,5 +29,6 @@ const product = new mongoose.Schema({
     }
 
 });
+const Product = mongoose.model('GreenVeges', productSchema, 'GreenVeges'); // Explicitly setting 'Restaurants'
 
-module.exports = mongoose.model('product', product)
+module.exports =Product;

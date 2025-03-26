@@ -5,7 +5,7 @@
 
         "Title":"Beet",
         "text":"Many nutrients and few calories Beets boast an impressive nutritional profile.",
-        "img":"https://th.bing.com/th/id/R.0a881b0b5bad15db0a01a0c19ef5c3c7?rik=y4SQ9wuFhO%2bs7Q&riu=http%3a%2f%2finspirehealthmag.com%2fwp-content%2fuploads%2f17985024_l.jpg&ehk=Q9dPVofOXOdONb3cUqmvJaKg4ZibrlGkleUbmFMfAFU%3d&risl=&pid=ImgRaw&r=0",
+        "img":"https://i.pinimg.com/736x/2a/f8/4d/2af84d5db8eabf98005cb216f465f459.jpg",
         "Price":"Rs 57.29/kg",
         "type":"Roots"
     },
@@ -14,7 +14,7 @@
 
         "Title":"Parsnips",
         "text":" Parsnips are an excellent source of many important nutrients, packing a hearty dose of fiber, vitamins, and minerals.",
-        "img":"parsnip",
+        "img":"https://img.freepik.com/premium-photo/parsnips-isolated-white-background-generative-ai_846485-22507.jpg?w=2000",
          "Price":"Rs 24.6",
          "type":"Roots"
     },
@@ -23,7 +23,7 @@
    {
         "Title":"Carrot",
         "text":"Carrots contain many nutrients, including beta-carotene and antioxidants.",
-         "img":"Carrot",
+         "img":"https://static.vecteezy.com/system/resources/previews/030/663/877/large_2x/carrots-with-transparent-background-high-quality-ultra-hd-free-photo.jpg",
         "Price":"Rs 47.8/kg",
         "type":"Roots"
     },
@@ -32,7 +32,7 @@
 
         "Title": "Potatoes",
         "text": "Potatoes: Where Fine Dining Meets Simplicity.",
-        "img": "potato-2",
+        "img": "https://wesgrow.co.za/wp-content/uploads/2020/03/Challenger-Seed-600x600.jpg",
         "Price":"Rs 31.7/kg",
         "type":"Roots"
     },
@@ -41,7 +41,7 @@
 
         "Title": "Green Onion",
         "text": "It helps regulate blood pressure, promote weight loss, maintain eye health, prevent premature aging and boost immunity.",
-        "img": "Green Onion",
+        "img": "https://www.superwafer.com/storage/products/data/SC0023.jpg",
         "Price":"Rs 30/Bunch",
         "type":"Stems"
     },
@@ -50,7 +50,7 @@
 
         "Title": "Rhubarb",
         "text": "Rhubarb is a good source of vitamin K, fiber, and antioxidants that can support overall health and help prevent chronic disease.",
-        "img": "Rhubarb",
+        "img": "https://img.freepik.com/premium-photo/rhubarb-with-white-background-high-quality-ultra-hd_889056-8717.jpg",
         "Price":"Rs 20",
         "type":"Stems"
     },
@@ -60,7 +60,7 @@
 
         "Title": "Wild Leek",
         "text": "wild leeks is this vegetable’s potential to fight or prevent cancer due to its high antioxidant content.",
-        "img": "Wild Leek",
+        "img": "https://th.bing.com/th/id/R.d25eae5cf611140cdf8b22e42a5aba54?rik=X3OLc3wpuo5VgA&riu=http%3a%2f%2fwww.freshwild.com%2fwp-content%2fuploads%2f2020%2f05%2fRamps-on-white.jpg&ehk=FYAp8LmGozFsaV6kyx9vNXvX5P1xKHKo6yb8fB5goY4%3d&risl=&pid=ImgRaw&r=0",
         "Price":"Rs 477/kg",
         "type":"Stems"
     },
@@ -70,7 +70,7 @@
     {
         "Title": "Coriander Plant",
         "text": "One of the main ingredient in the kitchen of India.",
-        "img": "corianderPlant",
+        "img": "https://th.bing.com/th/id/OIP.7R14GK9cU3JbXJ5S03lZMAAAAA?w=300&h=300&rs=1&pid=ImgDetMain",
         "Price":"Rs 20.00/Bunch",
         "type":"Stems"
     },
@@ -80,7 +80,7 @@
 
         "Title":"Ramps",
         "text":"Ramps could benefit the heart as well as circulatory system. ",
-        "img":"Ramps",
+        "img":"https://th.bing.com/th/id/R.d25eae5cf611140cdf8b22e42a5aba54?rik=X3OLc3wpuo5VgA&riu=http%3a%2f%2fwww.freshwild.com%2fwp-content%2fuploads%2f2020%2f05%2fRamps-on-white.jpg&ehk=FYAp8LmGozFsaV6kyx9vNXvX5P1xKHKo6yb8fB5goY4%3d&risl=&pid=ImgRaw&r=0",
         "Price":"Rs 15/kg",
         "type":"Bulbs"
     },
@@ -90,7 +90,7 @@
 
         "Title":"Onions",
         "text":"Onions are sweet, savory, and pungent, enhancing the taste of dishes.",
-        "img":"Oinon",
+        "img":"https://5.imimg.com/data5/SELLER/Default/2022/6/PI/RE/JB/151894220/1113342-01-500x500.jpg",
         "Price":"Rs 47.67/kg" ,
         "type":"Bulbs"
     },
@@ -99,7 +99,7 @@
 
         "Title":"Garlic",
         "text":"Heart disease Garlic is most often mentioned as an herb for heart disease and atherosclerosis",
-        "img":"Garlic",
+        "img":"https://www.muktifresh.in/assets/frontEnd/images/product/rosun.jpg",
         "Price":"Rs 197.5/kg",
         "type":"Bulbs"
     },
@@ -108,7 +108,7 @@
 
         "Title":"Lotus Roots",
         "text":"Lotus roots has a rich nutritional profile that may protect the liver, reduce the risk of stomach ulcers, and treat allergies.",
-        "img":"Lotus Roots",
+        "img":"https://www.saaraketha.com/wp-content/uploads/2023/09/lotus-stem.jpg",
         "Price":"Rs 90/kg",
         "type":"Bulbs"
     },
@@ -118,7 +118,7 @@
 
         "Title":"Green peas ",
         "text":"Green peas contain carbs, protein, and many beneficial nutrients, including fiber.",
-        "img":"Green-peas",
+        "img":"https://th.bing.com/th/id/R.8a4a884c550e43c6521e9853ef15b0d1?rik=FCst1RQ6gPGoCA&riu=http%3a%2f%2fsavecobradford.co.uk%2fcdn%2fshop%2fproducts%2fFreshPeas.jpg%3fv%3d1596035586&ehk=E0cxQpjoGNeG%2fKT5FibRxVmlUM0FTJctFhbyEF1OwSA%3d&risl=&pid=ImgRaw&r=0",
         "Price":"Rs 84.5/Kg",
         "type":"Seeds & Pods"
     },
@@ -127,7 +127,7 @@
 
         "Title":"Tomatoes",
         "text":"The tomato hides its griefs. Internal damage is hard to spot.",
-        "img":"Tomatoes",
+        "img":"https://i2.wp.com/yourmedguide.com/wp-content/uploads/2012/09/tomatoes.jpg",
         "Price":"Rs 47.52/Kg",
         "type":"Seeds & Pods"
     },
@@ -137,7 +137,7 @@
 
         "Title":"Green Beans",
         "text":"Green beans contain plenty of fiber, the indigestible part of plant foods.",
-        "img":"Green Beans",
+        "img":"https://www.beemartonline.com.au/wp-content/uploads/2022/09/beans-green_114467437-600x600.jpg",
         "Price":"Rs 88.38/Kg",
         "type":"Seeds & Pods"
     },
@@ -146,7 +146,7 @@
 
         "Title":"Capsicum",
         "text":"Capsicum contains a nutritional profile excellent for weight loss.",
-        "img":"Capsicum",
+        "img":"https://www.oifood.in/files/products/9f1114e47918b5a7a304cdbb60591a4b.jpg",
         "Price":"Rs 64/Kg",
         "type":"Seeds & Pods"
     },
@@ -155,7 +155,7 @@
 
         "Title":"Almond Nuts",
         "text":"Almonds are packed with antioxidants like vitamin E. Vitamin E protects your body from free radicals",
-        "img":"Almond Nuts",
+        "img":"https://img.freepik.com/premium-photo/bunch-almond-nuts-with-leaves_159938-2117.jpg",
         "Price":"Rs 690/Kg",
         "type":"Dry Fruits"
     },
@@ -164,7 +164,7 @@
 
         "Title":"Pistachios",
         "text":"Pistachios are rich in various nutrients and may support weight loss, gut health, blood sugar management, and heart health.",
-        "img":"Pistachios",
+        "img":"https://img.freepik.com/premium-photo/pile-pistachios-is-shown-white-background_435599-770.jpg",
         "Price":"Rs 1550/Kg",
         "type":"Dry Fruits"
     },
@@ -174,7 +174,7 @@
 
         "Title":"Walnut",
         "text":"Boosting the cardiovascular system and reducing the risk of heart disease and blood pressure.",
-        "img":"Walnut",
+        "img":"https://5.imimg.com/data5/ECOM/Default/2022/8/GE/BU/VW/141998135/thewholesaler-walnut-inshell-1000x1000.jpg",
         "Price":"Rs 400/Kg",
         "type":"Dry Fruits"
     },
@@ -183,7 +183,7 @@
 
         "Title":"Date Palm",
         "text":" Dates are rich in fiber, antioxidants and phytonutrients, and can help improve gut health, fight chronic diseases, boost brain health.",
-        "img":"Date Palm",
+        "img":"https://th.bing.com/th/id/OIP.zW-jZOEQCnF-erxq4fgOowAAAA?w=474&h=474&rs=1&pid=ImgDetMain",
         "Price":"Rs 245/Kg",
         "type":"Dry Fruits"
     },
@@ -193,7 +193,7 @@
 
         "Title":"Spinach",
         "text":"Spinach may help lower blood pressure, protect your vision and boost iron levels. ",
-        "img":"Spinach",
+        "img":"https://greene.pk/wp-content/uploads/2019/04/green-spinach-500x500.jpg",
         "Price":"Rs 20.58/Kg",
         "type":"Leaves"
     },
@@ -203,7 +203,7 @@
 
         "Title":"Curry Leaves",
         "text":"Curry leaves are a rich source of nutrients like carbohydrate, fiber, calcium.",
-        "img":"Curry-Leaves",
+        "img":"https://th.bing.com/th/id/OIP.djhwS9LS7gnR89nmjKEMIAHaHa?w=1080&h=1080&rs=1&pid=ImgDetMain",
         "Price":"Rs 20/Bunch",
         "type":"Leaves"
     },
@@ -212,7 +212,7 @@
     {
         "Title":"Mustard Greens",
         "text":" Mustard greens are high in powerful antioxidants .",
-        "img":"Mustard Greens",
+        "img":"https://img.freepik.com/premium-photo/isolated-mizuna-japanese-mustard-greens-feathery-jagged-l-top-view-shot-white-background_655090-580816.jpg",
         "Price":"Rs 25/Bunch",
         "type":"Leaves"
     },
@@ -222,7 +222,7 @@
 
         "Title":"Cabbage",
         "text":"Cabbage is highly nutritious and rich in vitamin C, fiber, and vitamin K. ",
-        "img":"Cabbage",
+        "img":"https://th.bing.com/th/id/R.b64edaf9af12cbdc71c7a61b7a32186a?rik=dDcNipCgksuluQ&riu=http%3a%2f%2fwww.foodgallery.co.th%2fwp-content%2fuploads%2f2021%2f07%2fFreshpoint-green-cabbage.jpg&ehk=krYCB7HDOSGm%2bk%2fF2uB1pPBKEnvbcMZ68KP11UAf0f8%3d&risl=&pid=ImgRaw&r=0",
         "Price":"Rs 28.3",
         "type":"Leaves"
     }
