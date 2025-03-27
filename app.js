@@ -53,6 +53,13 @@ mongoose.connect(process.env.MONGO_URI, {
   console.error("❌ MongoDB Connection Error:", err);
 });
 
+app.get("/", (req, res) => {
+    res.send("Server is running!");
+  });
+  
+  app.listen(PORT, () => {
+    console.log(`🚀 Server running on port ${PORT}`);
+  });
 
 
 
