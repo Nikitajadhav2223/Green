@@ -7,7 +7,7 @@ const app = express();
 
 
 
-const port=8002;
+const port=process.env.PORT || 8002;
 
 
 //CORS issue will be solved  // Manual CORS Issue fixing
