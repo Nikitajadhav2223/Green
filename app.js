@@ -67,6 +67,6 @@ app.get("/", (req, res) => {
 //     console.log(`Server is running on ${port}`);
 // });
 
-//https://green-mcob.onrender.com/Products
-//https://green-mcob.onrender.com/Products/Carrot
-//https://green-mcob.onrender.com/getProductsByType/Roots
+//https://green-l4k5.onrender.com/Products
+//https://green-l4k5.onrender.com/Products/Carrot
+//https://green-l4k5.onrender.com/getProductsByType/Roots
