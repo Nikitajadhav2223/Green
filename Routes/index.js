@@ -9,8 +9,12 @@ router.get('/Products', controller.getAllProducts);
 
 router.get('/Products/:Title', controller.getProductByTitle);
 
- router.get('/getProductsByType/:type', controller.getProductsByType);
+router.get('/getProductsByType/:type', controller.getProductsByType);
 
+
+router.post('/SignUp', controller.signup);
+
+router.post("/login", controller.login);
 
   
 
